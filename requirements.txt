@@ -1,10 +1,10 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
-matplotlib>=3.0
-matplotlib-base>=3.0
-numpy>=1.15
-numpy-base>=1.15
-pandas>=0.24
-scikit-image>=0.14
-scipy>=1.2
+matplotlib
+matplotlib-base
+numpy
+numpy-base
+pandas
+scikit-image
+scipy

@@ -2,9 +2,7 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 matplotlib
-matplotlib-base
 numpy
-numpy-base
 pandas
 scikit-image
 scipy

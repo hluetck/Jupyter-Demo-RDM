@@ -6,3 +6,4 @@ numpy
 pandas
 scikit-image
 scipy
+rpy2

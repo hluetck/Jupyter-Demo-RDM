@@ -2,7 +2,6 @@ name: rdm_workshop
 channels:
   - conda-forge
 dependencies:
-  - jupyterlab=2.2.5
-  - matplotlib=3.5.2
-  - numpy=1.22.4
-  - scikit-image=0.19.2
+  - matplotlib
+  - numpy
+  - scikit-image

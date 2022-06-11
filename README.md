@@ -1,6 +1,6 @@
 # Jupyter-Demo-RDM
 
-Demo of Jupyter notebook for Research Data Management workshops at ETH Zurich.
+Demo of Jupyter notebook for Research Data Management workshops / Summer School at ETH Zurich.
 
 Click this button to start a live Jupyter notebook with binder (this may take a while):
 
